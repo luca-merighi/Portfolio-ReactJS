@@ -5,4 +5,4 @@
 <img src="/public/techs.png">
 </div>
 
-### [Link para a Pàgina]()
+### [Link para a Pàgina](https://portfolio-react-js-chi.vercel.app/ "</> Luca Merighi")
